@@ -25,7 +25,7 @@ This repository contains all the material needed for the lecture MATLAB/Simlunik
 - [x] Gradient Descent
 - [x] Use Case & implementation
 
-## lecture 04 (async):
+## lecture 04:
 
 - [x] Physical modelling 0D
 - [x] Solving ODE
