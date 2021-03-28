@@ -14,18 +14,18 @@ This repository contains all the material needed for the lecture MATLAB/Simlunik
 ## lecture 02 (sync): 
 
 - [x] Data visualization (2/2)
-- [x] k-means algorithm
-- [x] Implementation
-- [x] Visulaization
+- [] k-means algorithm
+- [] Implementation
+- [] Visulaization
 
 ## lecture 03 (async):
 
-- [x] Numerical differentiation
+- [] Numerical differentiation
 - [x] Linear Regression
 - [x] Gradient Descent
 - [x] Use Case & implementation
 
-## lecture 04:
+## lecture 04 (sync):
 
 - [x] Physical modelling 0D
 - [x] Solving ODE
