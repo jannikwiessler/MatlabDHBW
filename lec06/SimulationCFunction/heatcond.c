@@ -264,11 +264,6 @@ static void mdlDerivatives(SimStruct *S)
   for (int i = 0; i < numOfStates; i++)
   {
     dx[i] = 1.0 / (cp * rho * deltax * deltay * deltaz) * (QdotxZu[i] - QdotxAb[i] + QdotyZu[i] - QdotyAb[i] + QdotZu[i] - QdotAb[i]);
-    if (dx[i] != 0.0)
-    {
-      //printf("%d\n", i);
-      //printf("%lf\n", dx[i]);
-    }
   }
 
   free(QdotxZu);
