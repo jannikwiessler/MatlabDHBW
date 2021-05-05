@@ -48,8 +48,9 @@ This repository contains all the material needed for the lecture MATLAB/Simlunik
 - [x] Use Case: Developing a user friendly data preprocessing tool
 
 ## lecture 08 (sync):
-
-- [x] Matlab and Python
 - [x] Misc.
+- [x] k-means algorithm
+- [x] Implementation & Visulaization
+- [x] Matlab and Python
 - [x] Time for Q&A
 
