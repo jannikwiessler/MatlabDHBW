@@ -1,4 +1,9 @@
 function [ clusterIDX, center ] = kMeans2D( numOfCenters, data , maxIter )
+% if called via python
+if iscell(data)
+   data = cell2mat([data{:}]);
+   data = reshape(data,2,length(data)/2)';
+end
 
 colors = {'m';'c';'r';'g';'b';'y'};
 
