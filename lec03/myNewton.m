@@ -71,7 +71,7 @@ xOld = x0;
 abortFlag = 'maxIter';
 for i = 1:maxIter
     f = func(xOld);
-    if f < feps
+    if abs(f) < feps
         abortFlag = 'feps';
         break;
     end
