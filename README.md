@@ -9,48 +9,42 @@ This repository contains all the material needed for the lecture MATLAB/Simlunik
 
 - [x] What is MATLAB for (use cases)
 - [x] Basics operations, Datastructures, Scripts, Debugger
-- [x] Data visualization (1/2)
+- [x] Exercise 1
 
 ## lecture 02 (sync): 
 
-- [x] Data visualization (2/2)
-- [ ] k-means algorithm
-- [ ] Implementation
-- [ ] Visulaization
+- [x] Data visualization
+- [x] Exercise 2
 
-## lecture 03 (async):
-
-- [x] Linear Regression
-- [x] Gradient Descent
-- [x] Use Case & implementation
-
-## lecture 04 (sync):
-
-- [x] PID Controller
-- [x] Implementation in Simulink
-- [x] Simulation
-
-## lecture 05 (async):
+## lecture 03 (sync):
 
 - [x] Newton-Raphson-Algorithm for root searching
 - [x] Numerical differentiation
+
+## lecture 04 (async):
+
+- [x] Linear Regression
+- [x] Gradient Descent Optimizer
+
+## lecture 05 (async):
+
 - [x] Mass-Spring-Damper 0D modelling in Matlab
 - [x] Matlabs solver for stiff ode's
 
 ## lecture 06 (sync):
 
+- [x] PID Controller
+- [x] Implementation in Simulink
+
+## lecture 07 (sync):
+
 - [x] 2D modelling (Heatconduction)
 - [x] Simulinks S-Functions (C-Code in Simulink)
 
-## lecture 07 (async):
-
-- [x] Creating Apps with Matlabs Appdesigner
-- [x] Use Case: Developing a user friendly data preprocessing tool
-
 ## lecture 08 (sync):
-- [x] Misc.
+
+- [x] Implementation of Runge-Kutta
 - [x] k-means algorithm
 - [x] Implementation & Visulaization
 - [x] Matlab and Python
-- [x] Time for Q&A
 
